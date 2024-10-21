@@ -1,0 +1,28 @@
+body {
+    background-color: #FFFFCC;
+    color: #800000;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.movie-info,
+.actor-list {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #800000;
+    border-radius: 5px;
+}
+
+.actor-list {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.actor {
+    padding: 5px;
+    border-bottom: 1px solid #800000;
+}
